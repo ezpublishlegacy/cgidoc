@@ -16,9 +16,9 @@ LICENSE
 =======
 GPLv2
 
-About Logica WebFactory
-========================
-The Web Factory is one of the Regional Logica Skill Centers, dedicated to Web, Digital and User Experience.
+About CGI WebFactory
+====================
+The Web Factory is one of the Regional CGI Skill Centers, dedicated to Web, Digital and User Experience.
 
 With 80 resources mutualised and dedicated to 30 projects and 20 customers, the Web Factory is specialized on CMS, Portal and Mobile issues (“fixed-price” projects delivered in an iterative, agile and continuous industrialized way).
 
