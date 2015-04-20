@@ -3,9 +3,9 @@
 /**
  * File containing the module view
  *
- * @version //autogentag//
- * @package LogicaDoc
- * @copyright Copyright (C) 2012 Logica WebFactory. All rights reserved.
+ * @version 1.0.1-LS
+ * @package CGIDoc
+ * @copyright Copyright (C) 2012-2015 CGI Digital Factory. All rights reserved.
  * @license http://www.gnu.org/licenses/gpl-2.0.html GNU General Public License v2.0
  */
 require 'autoload.php';
